@@ -1,6 +1,6 @@
 import java.util.concurrent.Exchanger;
 
-public class Main {
+public class ExchangerEdu {
 
     public static void main(String[] args) {
 
